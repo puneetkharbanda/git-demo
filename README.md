@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-#Ipsum Below
+#Website content
 
-bla bla bla bla
-
-#next 
-
-bla bla
+index.html
